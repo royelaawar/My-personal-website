@@ -1,3 +1,5 @@
-const h2 = document.createElement("h2");
-h2.textContent = "This content added by JavaScript";
-document.querySelector("body").appendChild(h2);
+//grab h2 with id 
+let carName = document.getElementById("bmw-name")
+let picture = document.getElementById("img")
+let data1 = document.getElementById("hp")
+let data2 = document.getElementById("torque")
