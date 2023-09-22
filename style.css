@@ -1,8 +1,10 @@
 body { 
-    background: rgb(107, 107, 146);
+    background: rgb(211, 211, 224);
+    text-align: center;
 }
 
 #img {
     width: 500px;
-    
+    border-radius: 245px;
+
 }
