@@ -19,7 +19,7 @@ picture.addEventListener('click', function() {
 
     if (carNum == 1) {
         carName.innerHTML = "BMW E30"
-        img.src= "/pictures/e30.jpeg"
+        img.src= "./pictures/e30.jpeg"
         hp.innerHTML = "Horsepower 296 HP"
         torque.innerHTML = "Torque 170 lb-ft"
 
