@@ -27,35 +27,35 @@ picture.addEventListener('click', function() {
 
     else if (carNum == 2) {
         carName.innerHTML = "BMW E36"
-        img.src="/pictures/e36.jpeg"
+        img.src="./pictures/e36.jpeg"
         hp.innerHTML = "Horsepower 321 HP"
         torque.innerHTML = "Torque 258 lb-ft"
     }
 
     else if (carNum == 3) {
         carName.innerHTML = "BMW E46"
-        img.src="/pictures/e46.jpeg"
+        img.src="./pictures/e46.jpeg"
         hp.innerHTML = "Horsepower 343 HP"
         torque.innerHTML = "Torque 269 lb-ft"
     }
 
     else if (carNum == 4) {
         carName.innerHTML = "BMW E92"
-        img.src="/pictures/e92.jpeg"
+        img.src="./pictures/e92.jpeg"
         hp.innerHTML = "Horsepower 420 HP"
         torque.innerHTML = "Torque 295 lb-ft"
     }
 
     else if (carNum == 5) {
         carName.innerHTML = "BMW F80"
-        img.src="/pictures/f80.jpeg"
+        img.src="./pictures/f80.jpeg"
         hp.innerHTML = "Horsepower 431 HP"
         torque.innerHTML = "Torque 406 lb-ft"
     }
 
     else if (carNum == 6) {
         carName.innerHTML = "BMW G80"
-        img.src="/pictures/g80.jpeg"
+        img.src="./pictures/g80.jpeg"
         hp.innerHTML = "Horsepower 473 HP"
         torque.innerHTML = "Torque 406 lb-ft"
     }
